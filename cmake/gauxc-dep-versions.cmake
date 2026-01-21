@@ -17,4 +17,4 @@ set( GAUXC_INTEGRATORXX_REPOSITORY https://github.com/wavefunction91/IntegratorX
 set( GAUXC_INTEGRATORXX_REVISION   1369be58d7a3235dac36d75dd964fef058830622 )
 
 set( GAUXC_HIGHFIVE_REPOSITORY https://github.com/highfive-devs/HighFive.git )
-set( GAUXC_HIGHFIVE_REVISION v3.3.0 )
+set( GAUXC_HIGHFIVE_REVISION v3.0.0-beta2 )
